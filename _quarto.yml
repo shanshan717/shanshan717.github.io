@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   navbar:
@@ -8,7 +9,7 @@ website:
         text: About
       - href: cv.qmd
         text: CV
-        
+
 format:
   html:
     theme: cosmo
