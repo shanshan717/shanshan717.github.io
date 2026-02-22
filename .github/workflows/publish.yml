@@ -12,7 +12,11 @@ permissions:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-latest # 这里已经修正了拼写错误
+    runs-on: ubuntu-latest
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
       - name: Check out repository
