@@ -1,0 +1,117 @@
+---
+title: "Curriculum Vitae"
+---
+
+::: {.download-cv}
+[<i class="bi bi-download"></i> Download CV (PDF)](/cv_zss.pdf){.btn .btn-primary}
+:::
+
+## Education
+
+**M.Sc. in Psychology**, School of Psychology, Nanjing Normal University | Since 09/2023
+
+- University ranking: Top 4/155 normal universities in China
+- Core Courses: Experimental Psychology, Cognitive Psychology, R Programming in Psychology, Advanced Research Methods
+
+**B.A. in Health Services and Management**, Public Health College, Hangzhou Normal University | 2019–2023
+
+- University ranking: Top 12/155 normal universities in China
+- Core Courses: Medical Statistics, Epidemiology, Clinical Medicine, Advanced Mathematics C1
+
+## Academic Experience
+
+**Self-Reference Modulates Stimulus Representations in Visual Cortex** | *Project Leader* | Since 12/2024
+
+*Advisors: Prof. Hu Chuan-Peng and Assoc. Prof. Yan Chu-Yao*
+
+Designed and conducted a comprehensive behavioral and neuroimaging study examining how self-related information influences memory representations and retrieval accessibility in early visual perception. Responsibilities include data collection (behavioral and MRI), data processing and behavioral analysis using R, and functional MRI analysis using Python.
+
+**A Cognitive Ontological Neuroimaging Meta Database for Self-Referential Processing** | *Project Leader* | Since 11/2023
+
+*Advisor: Prof. Hu Chuan-Peng*
+
+Developed a structured database summarizing how self-referential encoding affects memory processes across studies. Contributed to codebook development, systematic literature review, key information extraction, and dataset organization for public sharing and reuse by researchers.
+
+**Neuroimaging Meta-Analysis of Self-Referential Processing Across Psychiatric Disorders** | *Project Leader* | 02/2024–01/2026
+
+*Advisor: Prof. Hu Chuan-Peng*
+
+Conducted a coordinate-based fMRI meta-analysis to identify altered neural responses to self-referential judgments in psychiatric disorders. Key tasks included literature screening, data extraction, and Python-based computational analysis.
+
+**The Impact of Legal Professional Education on Moral and Legal Reasoning** | *Major Contributor* | Since 05/2024
+
+*Advisor: Prof. Hu Chuan-Peng*
+
+Analyzed behavioral and brain-imaging data to understand how legal training influences decision-making. Performed data cleaning, statistical modeling, interpretation of results, and manuscript writing.
+
+**Chinese Child Brain Development Project** | *MRI Operator* | Since 11/2024
+
+*Advisor: Prof. Hu Chuan-Peng*
+
+Operated MRI scans for children aged 6–8, including pre-scan familiarization to reduce anxiety, motion monitoring, and acquisition of resting-state fMRI, structural MRI, and diffusion-weighted imaging (DWI) data.
+
+## Publications
+
+Zhu, S., & Hu, C. (2026). Shared brain basis for altered self-referential processing across psychiatric disorders? A systematic review and meta-analysis of neuroimaging studies. *Under review*.
+
+Chen, Y., Zhou, Y., Li, M., Hong, Y., Chen, H., Zhu, S., Zhou, Y., Yang, S., Wu, X., & Wang, D. (2023). Social capital and loneliness among older adults in community dwellings and nursing homes in Zhejiang Province of China. *Frontiers in Public Health*, 11. https://doi.org/10.3389/fpubh.2023.1150310
+
+Cheng, H., Yang, Q., Wang, R., Luo, R., Zhu, S., Li, M., Li, W., Chen, C., Zou, Y., Huang, Z., Xie, T., Wang, S., Zhang, H., & Tian, Q. (2022). Emerging advances of detection strategies for tumor-derived exosomes. *International Journal of Molecular Sciences*, 23(2), 868. https://doi.org/10.3390/ijms23020868
+
+Meng, F., Ye, M., Si, J., Chen, W., Hong, Y., Liu, S., Chen, Y., Shen, X., Zhu, S., Zhao, C., Guo, M., Feng, X., & Wang, D. (2022). Status of traditional Chinese medicine healthcare services in nursing homes across China. *Geriatric Nursing*, 45, 93–99. https://doi.org/10.1016/j.gerinurse.2022.02.025
+
+## Conference Presentations
+
+**Poster Presentation: MRI together 2025** | Online | 12/2025
+
+Zhu, S., Wu, S., Zhu, X., Fan, Z., & Hu, C. (2025). An open neuroimaging meta-database of the self-referential encoding tasks and its application in understanding altered activations in psychiatric disorders. *(Selected as one of only eight contestants for the poster competition; Focus on Open Science and Reproducible Research)*
+
+**Oral Talk: Jiangsu Psychological Society** | Nanjing, China | 11/2025
+
+Zhu, S., Wu, S., Zhu, X., Fan, Z., & Hu, C. (2025). A neuroimaging meta-database of self-referential encoding paradigms and its applications in psychological research. *(Basic Psychology category)*
+
+**Oral Talk: 25th National Congress of Psychology** | Chengdu, China | 10/2023
+
+Zhu, S., Wu, J., Sun, S., Xiao, J., & Hu, C. (2023). Abnormal brain activity in self-referential processing among psychiatric patients: Evidence from an ALE meta-analysis. *Proceedings of the 25th National Congress of Psychology* (pp. 486–488). *(Published abstract; Basic Psychology category)*
+
+## Teaching Experience
+
+**Bayesian Statistics in Psychology** | *Teaching Assistant* | 09/2024–01/2025
+
+*Instructor: Prof. Hu Chuan-Peng, Nanjing Normal University*
+
+Prepared Python-based teaching materials and interactive exercises. Provided technical support to graduate students in data analysis and programming.
+
+## Professional Training
+
+**Research Training: FMRIB Software Library (FSL) Neuroimaging Analysis** | Institute of Psychology, Chinese Academy of Sciences, Beijing | 07/2024
+
+Gained hands-on experience in using FSL software for neuroimaging data analysis, including preprocessing, statistical modeling, and visualization techniques.
+
+**Programming Training: Natural Language Processing** | NetEase Intelligence, Hangzhou | 05/2023–08/2023
+
+Engaged in NLP techniques for text analysis, including text annotation and semantic processing using Python.
+
+**Research Internship** | Sir Run Run Shaw Hospital, Hangzhou | 07/2022–11/2022
+
+Assisted in grant proposal submission, document preparation, proofreading, and coordination of institutional approvals.
+
+## Awards & Achievements
+
+- First-Class Scholarship for Master's Students, Nanjing Normal University (¥12,000) | 12/2023
+- Outstanding Graduate Award, Hangzhou Normal University | 06/2023
+- Hailiang Scholarship, Hangzhou Normal University (¥5,000) | 03/2023
+- Third Prize, 2022 China Undergraduate Computer Design Competition (National-level) | 06/2022
+- Silver Medal (Provincial-level), "Challenge Cup" College Student Entrepreneurship Plan Competition | 05/2022
+- Bronze Medal (Provincial-level), 8th China "Internet+" Innovation and Entrepreneurship Competition | 05/2022
+- Third Prize, Mathematical Contest in Modeling (MCM/ICM), USA | 02/2022
+
+## Skills
+
+**Languages:** Chinese (native); English (fluent)
+
+**Programming:** Python, MATLAB, R
+
+**Neuroimaging:** Task-based MRI data analysis, specialized neuroimaging software (e.g., FMRIB Software Library), psychological experiment design and implementation in MRI scanners
+
+**Tools:** GitHub, Docker, Jupyter Notebook, LaTeX

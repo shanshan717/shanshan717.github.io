@@ -1,0 +1,38 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+![](my_avatar.PNG){.roundedimg width="80%"}
+
+::: {.centered}
+**Shanshan Zhu**  
+M.Sc. Student in Psychology  
+Nanjing Normal University  
+
+::: {.social-links}
+[<i class="bi bi-envelope"></i> Email](mailto:zhushanshan0717@gmail.com)
+[<i class="bi bi-github"></i> GitHub](https://github.com/shanshan717)
+:::
+
+::: {.social-links}
+[<i class="bi bi-twitter-x"></i> Twitter](https://x.com/shansha18840596)
+[<i class="bi bi-cloud-fill"></i> Bluesky](https://bsky.app/profile/zhushanshan0717.bsky.social)
+:::
+:::
+:::
+
+::: {.g-col-8}
+## About me
+
+I’m Shanshan Zhu, a Master’s student in Psychology focused on the self and memory using functional magnetic resonance imaging (fMRI). I am also exploring how deep learning can be integrated with cognitive neuroscience and translated into practical applications.
+
+I received my B.A. in Health Services and Management from Hangzhou Normal University and am currently pursuing my Master's degree at Nanjing Normal University under the supervision of Prof. Hu Chuan-Peng.
+
+Outside of research, I enjoy running, photography, and DIY crafts. Feel free to explore the site to learn more!
+:::
+
+:::

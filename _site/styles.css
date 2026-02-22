@@ -1,0 +1,81 @@
+/* 头像变圆并居中 */
+.roundedimg {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 侧边栏文字整体居中 */
+.centered {
+  text-align: center;
+  margin-top: 15px;
+}
+
+/* 社交链接行容器 */
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 8px 0;  /* 减少行间距 */
+}
+
+/* 让超链接变成带边框的按钮 */
+.centered a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 6px 12px;
+  border: 1px solid #ccc;   /* 灰色边框 */
+  border-radius: 6px;       /* 圆角边框 */
+  width: 120px;             /* 统一按钮宽度 */
+  text-decoration: none;    /* 去掉下划线 */
+  color: #333;              /* 字体颜色 */
+  font-size: 0.9em;
+  transition: 0.2s;
+}
+
+/* 鼠标悬停在按钮上的效果 */
+.centered a:hover {
+  background-color: #f0f0f0;
+  border-color: #666;
+}
+
+/* 导航栏学术蓝色（钢蓝） */
+.navbar {
+  background-color: #4682B4 !important;
+}
+
+/* About me 部分样式 */
+#about-me {
+  font-size: 1.05em;
+  line-height: 1.8;
+}
+
+#about-me p {
+  margin-bottom: 1.2em;
+}
+
+/* CV 下载按钮样式 */
+.download-cv {
+  margin-bottom: 1.5em;
+}
+
+.download-cv a {
+  padding: 8px 16px;
+  background-color: #4682B4;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 500;
+  transition: 0.2s;
+}
+
+.download-cv a:hover {
+  background-color: #2d5a8a;
+  color: white;
+  text-decoration: none;
+}
