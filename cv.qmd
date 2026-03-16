@@ -10,12 +10,10 @@ title: "Curriculum Vitae"
 
 **M.Sc. in Psychology**, School of Psychology, Nanjing Normal University | Since 09/2023
 
-- University ranking: Top 4/155 normal universities in China
 - Core Courses: Experimental Psychology, Cognitive Psychology, R Programming in Psychology, Advanced Research Methods
 
 **B.A. in Health Services and Management**, Public Health College, Hangzhou Normal University | 2019–2023
 
-- University ranking: Top 12/155 normal universities in China
 - Core Courses: Medical Statistics, Epidemiology, Clinical Medicine, Advanced Mathematics C1
 
 ## Academic Experience
