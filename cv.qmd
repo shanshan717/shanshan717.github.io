@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 ---
 
 ::: {.download-cv}
-[<i class="bi bi-download"></i> Download CV (PDF)](/cv_zss.pdf){.btn .btn-primary}
+[<i class="bi bi-download"></i> Download CV (PDF)](/cv_zss_v3.pdf){.btn .btn-primary}
 :::
 
 ## Education
