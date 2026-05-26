@@ -15,15 +15,25 @@ Nanjing Normal University
 ::: {.profile-actions}
 [<i class="bi bi-file-earmark-person"></i> CV](cv.qmd)
 [<i class="bi bi-journal-text"></i> Publications](publications.qmd)
-[<i class="bi bi-person-badge"></i> ORCID](https://orcid.org/0009-0007-6612-6190)
 :::
 
 ::: {.social-links}
 [<i class="bi bi-envelope"></i> Email](mailto:zhushanshan0717@gmail.com)
 [<i class="bi bi-github"></i> GitHub](https://github.com/shanshan717)
+[<i class="bi bi-person-badge"></i> ORCID](https://orcid.org/0009-0007-6612-6190)
 [<i class="bi bi-twitter-x"></i> Twitter](https://x.com/shansha18840596)
 [<i class="bi bi-cloud-fill"></i> Bluesky](https://bsky.app/profile/zhushanshan0717.bsky.social)
 :::
+:::
+
+::: {.main-content}
+## About Me
+
+I am a Master's student in Psychology at Nanjing Normal University. My research interests focus on self cognition, memory retrieval, and functional magnetic resonance imaging (fMRI).
+
+My current work uses behavioral experiments, fMRI, and neuroimaging meta-analysis to understand how self-related information is represented in the brain.
+
+In daily life, I enjoy running and strolling through parks. Although I am a slow-to-warm-up person, I am always happy to exchange ideas and share experiences with people who have similar interests.
 
 ::: {.interest-box}
 #### Research Interests
@@ -34,16 +44,6 @@ Nanjing Normal University
 - Self-referential processing
 - Neuroimaging meta-analysis
 :::
-:::
-
-::: {.main-content}
-## About Me
-
-I am a Master's student in Psychology at Nanjing Normal University. My research interests focus on self cognition, memory retrieval, and functional magnetic resonance imaging (fMRI).
-
-My current work uses behavioral experiments, fMRI, and neuroimaging meta-analysis to understand how self-related information is represented in the brain and how it shapes memory retrieval.
-
-I am especially interested in self-referential processing, memory representations, and altered self cognition across psychological and clinical contexts.
 
 <div class="section-heading">
   <h2 id="selected-publications">Selected Publications</h2>
@@ -60,7 +60,6 @@ I am especially interested in self-referential processing, memory representation
 This preprint synthesizes neuroimaging evidence on altered self-referential processing across psychiatric disorders. It has not yet been certified by peer review.
 
 [<i class="bi bi-file-earmark-text"></i> bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.13.711269v1){.publication-link}
-[<i class="bi bi-link-45deg"></i> DOI](https://doi.org/10.64898/2026.03.13.711269){.publication-link}
 :::
 :::
 :::
