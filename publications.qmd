@@ -6,9 +6,12 @@ title: "Publications"
 
 ::: {.publication-list}
 ::: {.publication-card}
-**Zhu, S.**, Yan, W., & Hu, C.-P. (2026). Shared brain basis for altered self-referential processing across psychiatric disorders? A systematic review and meta-analysis of neuroimaging studies. *bioRxiv preprint*. <https://doi.org/10.64898/2026.03.13.711269>
+**Zhu, S.**, Yan, W., & Hu, C.-P. (2026). Shared brain basis for altered self-referential processing across psychiatric disorders? A systematic review and meta-analysis of neuroimaging studies. *bioRxiv preprint*. https://doi.org/10.64898/2026.03.13.711269
+
+This article is a preprint and has not been certified by peer review.
 
 [<i class="bi bi-file-earmark-text"></i> bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.13.711269v1){.publication-link}
+[<i class="bi bi-link-45deg"></i> DOI](https://doi.org/10.64898/2026.03.13.711269){.publication-link}
 [<i class="bi bi-person-badge"></i> ORCID](https://orcid.org/0009-0007-6612-6190){.publication-link}
 :::
 :::

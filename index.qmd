@@ -28,10 +28,10 @@ Nanjing Normal University
 ::: {.interest-box}
 #### Research Interests
 
-- Self-referential processing
 - Self cognition
 - Memory retrieval
 - Functional magnetic resonance imaging (fMRI)
+- Self-referential processing
 - Neuroimaging meta-analysis
 :::
 :::
@@ -39,11 +39,11 @@ Nanjing Normal University
 ::: {.main-content}
 ## About Me
 
-I am a Master's student in Psychology at Nanjing Normal University. My research focuses on self cognition, memory retrieval, and functional magnetic resonance imaging (fMRI).
+I am a Master's student in Psychology at Nanjing Normal University. My research interests focus on self cognition, memory retrieval, and functional magnetic resonance imaging (fMRI).
 
-I use behavioral experiments, fMRI, and meta-analytic approaches to study how self-related information is represented, retrieved, and altered across different psychological and clinical contexts.
+My current work uses behavioral experiments, fMRI, and neuroimaging meta-analysis to understand how self-related information is represented in the brain and how it shapes memory retrieval.
 
-If you think we may have shared research interests, or if you are looking for a collaborator in related areas, please feel free to reach out.
+I am especially interested in self-referential processing, memory representations, and altered self cognition across psychological and clinical contexts.
 
 <div class="section-heading">
   <h2 id="selected-publications">Selected Publications</h2>
@@ -54,12 +54,13 @@ If you think we may have shared research interests, or if you are looking for a 
 ::: {.publication-card}
 **Shared brain basis for altered self-referential processing across psychiatric disorders? A systematic review and meta-analysis of neuroimaging studies**
 
-**Shanshan Zhu**, Wenjin Yan, Chuan-Peng Hu  
+[**Shanshan Zhu**](https://orcid.org/0009-0007-6612-6190), Wenjin Yan, Chuan-Peng Hu  
 *bioRxiv preprint*, 2026. doi: [10.64898/2026.03.13.711269](https://doi.org/10.64898/2026.03.13.711269)
 
-This preprint synthesizes neuroimaging evidence on altered self-referential processing across psychiatric disorders.
+This preprint synthesizes neuroimaging evidence on altered self-referential processing across psychiatric disorders. It has not yet been certified by peer review.
 
 [<i class="bi bi-file-earmark-text"></i> bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.13.711269v1){.publication-link}
+[<i class="bi bi-link-45deg"></i> DOI](https://doi.org/10.64898/2026.03.13.711269){.publication-link}
 :::
 :::
 :::
