@@ -1,0 +1,30 @@
+---
+title: "Publications"
+---
+
+## Preprints and Manuscripts
+
+::: {.publication-list}
+::: {.publication-card}
+**Zhu, S.**, Yan, W., & Hu, C.-P. (2026). Shared brain basis for altered self-referential processing across psychiatric disorders? A systematic review and meta-analysis of neuroimaging studies. *bioRxiv preprint*. <https://doi.org/10.64898/2026.03.13.711269>
+
+[<i class="bi bi-file-earmark-text"></i> bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.13.711269v1){.publication-link}
+[<i class="bi bi-person-badge"></i> ORCID](https://orcid.org/0009-0007-6612-6190){.publication-link}
+:::
+:::
+
+## Peer-Reviewed Publications
+
+::: {.publication-list}
+::: {.publication-card}
+Chen, Y., Zhou, Y., Li, M., Hong, Y., Chen, H., **Zhu, S.**, Zhou, Y., Yang, S., Wu, X., & Wang, D. (2023). Social capital and loneliness among older adults in community dwellings and nursing homes in Zhejiang Province of China. *Frontiers in Public Health*, 11. <https://doi.org/10.3389/fpubh.2023.1150310>
+:::
+
+::: {.publication-card}
+Cheng, H., Yang, Q., Wang, R., Luo, R., **Zhu, S.**, Li, M., Li, W., Chen, C., Zou, Y., Huang, Z., Xie, T., Wang, S., Zhang, H., & Tian, Q. (2022). Emerging advances of detection strategies for tumor-derived exosomes. *International Journal of Molecular Sciences*, 23(2), 868. <https://doi.org/10.3390/ijms23020868>
+:::
+
+::: {.publication-card}
+Meng, F., Ye, M., Si, J., Chen, W., Hong, Y., Liu, S., Chen, Y., Shen, X., **Zhu, S.**, Zhao, C., Guo, M., Feng, X., & Wang, D. (2022). Status of traditional Chinese medicine healthcare services in nursing homes across China. *Geriatric Nursing*, 45, 93-99. <https://doi.org/10.1016/j.gerinurse.2022.02.025>
+:::
+:::

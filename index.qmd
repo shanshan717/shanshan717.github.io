@@ -3,37 +3,64 @@ title: ""
 page-layout: full
 ---
 
-::: {.grid}
+::: {.home-shell}
+::: {.profile-card}
+![](my_avatar.PNG){.profile-photo}
 
-::: {.g-col-4}
-![](my_avatar.PNG){.roundedimg width="80%"}
+### Shanshan Zhu
 
-::: {.centered}
-**Shanshan Zhu**  
 M.Sc. Student in Psychology  
-Nanjing Normal University  
+Nanjing Normal University
+
+::: {.profile-actions}
+[<i class="bi bi-file-earmark-person"></i> CV](cv.qmd)
+[<i class="bi bi-journal-text"></i> Publications](publications.qmd)
+[<i class="bi bi-person-badge"></i> ORCID](https://orcid.org/0009-0007-6612-6190)
+:::
 
 ::: {.social-links}
 [<i class="bi bi-envelope"></i> Email](mailto:zhushanshan0717@gmail.com)
 [<i class="bi bi-github"></i> GitHub](https://github.com/shanshan717)
-:::
-
-::: {.social-links}
 [<i class="bi bi-twitter-x"></i> Twitter](https://x.com/shansha18840596)
 [<i class="bi bi-cloud-fill"></i> Bluesky](https://bsky.app/profile/zhushanshan0717.bsky.social)
 :::
+
+::: {.interest-box}
+#### Research Interests
+
+- Self-referential processing
+- Self cognition
+- Memory retrieval
+- Functional magnetic resonance imaging (fMRI)
+- Neuroimaging meta-analysis
 :::
 :::
 
-::: {.g-col-8}
-## About me
+::: {.main-content}
+## About Me
 
-I’m Shanshan Zhu, currently a Master’s student in Psychology, with a research focus on the self and memory using functional magnetic resonance imaging (fMRI). I am currently pursuing my master’s degree at Nanjing Normal University. 
+I am a Master's student in Psychology at Nanjing Normal University. My research focuses on self cognition, memory retrieval, and functional magnetic resonance imaging (fMRI).
 
-Outside of research, I enjoy running, photography, and DIY crafts. Welcome to explore my website and learn more about me. 
+I use behavioral experiments, fMRI, and meta-analytic approaches to study how self-related information is represented, retrieved, and altered across different psychological and clinical contexts.
 
-If you think we might have shared research interests, or if you are looking for a collaborator in related areas, please feel free to reach out. I would be glad to connect and exchange ideas.
+If you think we may have shared research interests, or if you are looking for a collaborator in related areas, please feel free to reach out.
 
+<div class="section-heading">
+  <h2 id="selected-publications">Selected Publications</h2>
+  <a href="publications.qmd">View All <i class="bi bi-arrow-right"></i></a>
+</div>
+
+::: {.publication-list}
+::: {.publication-card}
+**Shared brain basis for altered self-referential processing across psychiatric disorders? A systematic review and meta-analysis of neuroimaging studies**
+
+**Shanshan Zhu**, Wenjin Yan, Chuan-Peng Hu  
+*bioRxiv preprint*, 2026. doi: [10.64898/2026.03.13.711269](https://doi.org/10.64898/2026.03.13.711269)
+
+This preprint synthesizes neuroimaging evidence on altered self-referential processing across psychiatric disorders.
+
+[<i class="bi bi-file-earmark-text"></i> bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.13.711269v1){.publication-link}
 :::
-
+:::
+:::
 :::

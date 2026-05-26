@@ -65,15 +65,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "Shanshan Zhu",
     "section": "",
-    "text": "Shanshan Zhu\nM.Sc. Student in Psychology\nNanjing Normal University\n\n Email  GitHub\n\n\n Twitter  Bluesky\n\n\n\n\n\nI’m Shanshan Zhu, currently a Master’s student in Psychology, with a research focus on the self and memory using functional magnetic resonance imaging (fMRI). I am currently pursuing my master’s degree at Nanjing Normal University.\nOutside of research, I enjoy running, photography, and DIY crafts. Welcome to explore my website and learn more about me.\nIf you think we might have shared research interests, or if you are looking for a collaborator in related areas, please feel free to reach out. I would be glad to connect and exchange ideas."
+    "text": "Shanshan Zhu M.Sc. Student in Psychology Nanjing Normal University About Me Selected Publications ORCID CV Publications self-referential processing memory fMRI neuroimaging meta-analysis"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "",
+    "title": "Shanshan Zhu",
+    "section": "About Me",
+    "text": "I am a Master’s student in Psychology at Nanjing Normal University. My research focuses on self-referential processing and memory using behavioral experiments, fMRI, and meta-analysis."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "I’m Shanshan Zhu, currently a Master’s student in Psychology, with a research focus on the self and memory using functional magnetic resonance imaging (fMRI). I am currently pursuing my master’s degree at Nanjing Normal University.\nOutside of research, I enjoy running, photography, and DIY crafts. Welcome to explore my website and learn more about me.\nIf you think we might have shared research interests, or if you are looking for a collaborator in related areas, please feel free to reach out. I would be glad to connect and exchange ideas."
+    "text": "Preprints and Manuscripts Zhu S Hu C 2026 Shared brain basis for altered self-referential processing across psychiatric disorders systematic review meta-analysis neuroimaging studies Preprint under review"
   }
 ]
