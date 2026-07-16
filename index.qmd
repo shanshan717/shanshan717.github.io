@@ -13,59 +13,84 @@ format:
 ::: {.profile-card}
 ![](my_avatar.PNG){.profile-photo}
 
+::: {.profile-identity}
 ### Shanshan Zhu
+
+<span class="profile-field">Psychology · Cognitive Neuroscience · fMRI</span>
 
 M.Sc. Student in Psychology  
 Nanjing Normal University
+:::
 
 ::: {.profile-actions}
-[<i class="bi bi-file-earmark-person"></i> CV](cv.qmd)
 [<i class="bi bi-journal-text"></i> Publications](publications.qmd)
+[<i class="bi bi-file-earmark-person"></i> View CV](cv.qmd)
 :::
 
 ::: {.social-links}
 [<i class="bi bi-envelope"></i> Email](mailto:zhushanshan0717@gmail.com)
 [<i class="bi bi-github"></i> GitHub](https://github.com/shanshan717)
 [<i class="bi bi-person-badge"></i> ORCID](https://orcid.org/0009-0007-6612-6190)
+:::
+
+::: {.secondary-socials}
 [<i class="bi bi-twitter-x"></i> Twitter](https://x.com/shansha18840596)
+<span aria-hidden="true">·</span>
 [<i class="bi bi-cloud-fill"></i> Bluesky](https://bsky.app/profile/zhushanshan0717.bsky.social)
 :::
 :::
 
 ::: {.main-content}
-## About Me
+::: {.intro-block}
+<span class="eyebrow">ABOUT ME</span>
+
+## Understanding how the brain represents the self
 
 I am a Master's student in Psychology at Nanjing Normal University. My research interests focus on self cognition, memory retrieval, and functional magnetic resonance imaging (fMRI).
 
 My current work uses behavioral experiments, fMRI, and neuroimaging meta-analysis to understand how self-related information is represented in the brain.
+:::
+
+::: {.interest-section}
+### Research Interests
+
+::: {.research-tags}
+<span>Self cognition</span>
+<span>Memory retrieval</span>
+<span>Functional MRI</span>
+<span>Self-referential processing</span>
+<span>Neuroimaging meta-analysis</span>
+:::
+:::
+
+::: {.personal-note}
+#### Beyond research
 
 In daily life, I enjoy running and strolling through parks. Although I am a slow-to-warm-up person, I am always happy to exchange ideas and share experiences with people who have similar interests.
-
-::: {.interest-box}
-#### Research Interests
-
-- Self cognition
-- Memory retrieval
-- Functional magnetic resonance imaging (fMRI)
-- Self-referential processing
-- Neuroimaging meta-analysis
 :::
 
 <div class="section-heading">
-  <h2 id="selected-publications">Selected Publications</h2>
-  <a href="publications.qmd">View All <i class="bi bi-arrow-right"></i></a>
+  <div>
+    <span class="eyebrow">RESEARCH</span>
+    <h2 id="selected-publications">Selected Publications</h2>
+  </div>
+  <a href="publications.qmd">View all <i class="bi bi-arrow-right"></i></a>
 </div>
 
 ::: {.publication-list}
 ::: {.publication-card}
+::: {.publication-meta}
+2026 · bioRxiv preprint
+:::
+
 **Shared brain basis for altered self-referential processing across psychiatric disorders? A systematic review and meta-analysis of neuroimaging studies**
 
 [**Shanshan Zhu**](https://orcid.org/0009-0007-6612-6190), Wenjin Yan, Chuan-Peng Hu  
-*bioRxiv preprint*, 2026. doi: [10.64898/2026.03.13.711269](https://doi.org/10.64898/2026.03.13.711269)
+doi: [10.64898/2026.03.13.711269](https://doi.org/10.64898/2026.03.13.711269)
 
 This preprint synthesizes neuroimaging evidence on altered self-referential processing across psychiatric disorders. It has not yet been certified by peer review.
 
-[<i class="bi bi-file-earmark-text"></i> bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.13.711269v1){.publication-link}
+[<i class="bi bi-file-earmark-text"></i> Read preprint](https://www.biorxiv.org/content/10.64898/2026.03.13.711269v1){.publication-link}
 :::
 :::
 :::

@@ -3,6 +3,9 @@ project:
   output-dir: _site
 
 website:
+  title: "Shanshan Zhu"
+  site-url: "https://shanshan717.github.io/"
+  description: "Personal academic website of Shanshan Zhu, a psychology researcher studying self-cognition, memory retrieval, and functional neuroimaging."
   navbar:
     left:
       - href: index.qmd
