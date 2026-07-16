@@ -59,8 +59,6 @@ a {
 }
 
 .profile-card {
-  position: sticky;
-  top: 96px;
   padding: 28px 24px 24px;
   text-align: center;
   background: rgba(255, 255, 255, 0.96);
@@ -213,11 +211,13 @@ a {
 
 .intro-block h2 {
   max-width: 680px;
-  margin: 0 0 22px;
+  margin: 0 0 20px;
+  padding-bottom: 14px;
   color: var(--ink);
-  font-size: clamp(2rem, 3.2vw, 2.75rem);
-  line-height: 1.12;
-  letter-spacing: -0.04em;
+  border-bottom: 1px solid var(--line);
+  font-size: 1.75rem;
+  line-height: 1.2;
+  letter-spacing: -0.025em;
 }
 
 .main-content p {
@@ -388,10 +388,6 @@ a {
     grid-template-columns: 1fr;
     gap: 22px;
     margin-top: 26px;
-  }
-
-  .profile-card {
-    position: static;
   }
 
   .main-content {

@@ -42,9 +42,7 @@ Nanjing Normal University
 
 ::: {.main-content}
 ::: {.intro-block}
-<span class="eyebrow">ABOUT ME</span>
-
-## Understanding how the brain represents the self
+## About Me
 
 I am a Master's student in Psychology at Nanjing Normal University. My research interests focus on self cognition, memory retrieval, and functional magnetic resonance imaging (fMRI).
 
