@@ -2,6 +2,11 @@
 title: ""
 pagetitle: "Shanshan Zhu"
 page-layout: full
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="IloVxgEtAYrx1PqoRLV5j_wt2_PfnR0pFLBmW4BkoZU">
 ---
 
 ::: {.home-shell}
