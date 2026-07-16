@@ -38,16 +38,6 @@ Nanjing Normal University
 <span aria-hidden="true">·</span>
 [<i class="bi bi-cloud-fill"></i> Bluesky](https://bsky.app/profile/zhushanshan0717.bsky.social)
 :::
-:::
-
-::: {.main-content}
-::: {.intro-block}
-## About Me
-
-I am a Master's student in Psychology at Nanjing Normal University. My research interests focus on self cognition, memory retrieval, and functional magnetic resonance imaging (fMRI).
-
-My current work uses behavioral experiments, fMRI, and neuroimaging meta-analysis to understand how self-related information is represented in the brain.
-:::
 
 ::: {.interest-section}
 ### Research Interests
@@ -59,6 +49,16 @@ My current work uses behavioral experiments, fMRI, and neuroimaging meta-analysi
 <span>Self-referential processing</span>
 <span>Neuroimaging meta-analysis</span>
 :::
+:::
+:::
+
+::: {.main-content}
+::: {.intro-block}
+## About Me
+
+I am a Master's student in Psychology at Nanjing Normal University. My research interests focus on self cognition, memory retrieval, and functional magnetic resonance imaging (fMRI).
+
+My current work uses behavioral experiments, fMRI, and neuroimaging meta-analysis to understand how self-related information is represented in the brain.
 :::
 
 ::: {.personal-note}
