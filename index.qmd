@@ -67,13 +67,17 @@ My current work uses behavioral experiments, fMRI, and neuroimaging meta-analysi
 In daily life, I enjoy running and strolling through parks. Although I am a slow-to-warm-up person, I am always happy to exchange ideas and share experiences with people who have similar interests.
 :::
 
-<div class="section-heading">
-  <div>
-    <span class="eyebrow">RESEARCH</span>
-    <h2 id="selected-publications">Selected Publications</h2>
-  </div>
-  <a href="publications.qmd">View all <i class="bi bi-arrow-right"></i></a>
-</div>
+::: {.section-heading}
+::: {.section-heading-title}
+::: {.eyebrow}
+RESEARCH
+:::
+
+## Selected Publications
+:::
+
+[View all <i class="bi bi-arrow-right"></i>](publications.qmd){.section-link}
+:::
 
 ::: {.publication-list}
 ::: {.publication-card}
